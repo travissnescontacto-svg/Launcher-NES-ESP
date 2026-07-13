@@ -2,7 +2,7 @@
 1942 (ESP)|https://archive.org/download/action-52-esp/1942%20%28ESP%29.zip
 1943 - The Battle of Midway (ESP)|https://archive.org/download/action-52-esp/1943%20-%20The%20Battle%20of%20Midway%20%28ESP%29.zip
 2048 (ESP)|https://archive.org/download/action-52-esp/2048%20%28ESP%29.zip
-8 Eyes (ESP)|https://archive.org/download/action-52-esp/8%20Eyes%20%28ESP%29.zip
+3 Ninjas Kick Back (USA)|https://archive.org/download/action-52-esp/3%20Ninjas%20Kick%20Back%20%28USA%29.zip
 A Boy and His Blob Trouble on Blobolonia (ESP)|https://archive.org/download/action-52-esp/A%20Boy%20and%20His%20Blob%20Trouble%20on%20Blobolonia%20%28ESP%29.zip
 A Nightmare on Elm Street (ESP)|https://archive.org/download/action-52-esp/A%20Nightmare%20on%20Elm%20Street%20%28ESP%29.zip
 Abadox - The Deadly Inner War (ESP-Hammer)|https://archive.org/download/action-52-esp/Abadox%20-%20The%20Deadly%20Inner%20War%20%28ESP-Hammer%29.zip
@@ -65,8 +65,8 @@ Baltron (ESP)|https://archive.org/download/action-52-esp/Baltron%20%28ESP%29.zip
 Banana (ESP)|https://archive.org/download/action-52-esp/Banana%20%28ESP%29.zip
 Baseball (ESP)|https://archive.org/download/action-52-esp/Baseball%20%28ESP%29.zip
 Bashi Bazook - Morphoid Masher (ESP) (Proto)|https://archive.org/download/action-52-esp/Bashi%20Bazook%20-%20Morphoid%20Masher%20%28ESP%29%20%28Proto%29.zip
-Batman (ESP)|https://archive.org/download/action-52-esp/Batman%20%28ESP%29.zip
 Batman (ESP) (Prototype)|https://archive.org/download/action-52-esp/Batman%20%28ESP%29%20%28Prototype%29.zip
+Batman (ESP)|https://archive.org/download/action-52-esp/Batman%20%28ESP%29.zip
 Batman - Return of the Joker (ESP)|https://archive.org/download/action-52-esp/Batman%20-%20Return%20of%20the%20Joker%20%28ESP%29.zip
 Batman - The Video Game (ESP-WAVE)|https://archive.org/download/action-52-esp/Batman%20-%20The%20Video%20Game%20%28ESP-WAVE%29.zip
 Batman Returns (ESP-2.0)|https://archive.org/download/action-52-esp/Batman%20Returns%20%28ESP-2.0%29.zip
@@ -161,8 +161,8 @@ Cobra Triangle (ESP)|https://archive.org/download/action-52-esp/Cobra%20Triangle
 Cocoron (ESP)|https://archive.org/download/action-52-esp/Cocoron%20%28ESP%29.zip
 Code Name - Viper (ESP)|https://archive.org/download/action-52-esp/Code%20Name%20-%20Viper%20%28ESP%29.zip
 Commando (ESP)|https://archive.org/download/action-52-esp/Commando%20%28ESP%29.zip
-Conquest of the Crystal Palace|https://archive.org/download/action-52-esp/Conquest%20of%20the%20Crystal%20Palace.zip
 Conquest of the Crystal Palace (ESP-Wave)|https://archive.org/download/action-52-esp/Conquest%20of%20the%20Crystal%20Palace%20%28ESP-Wave%29.zip
+Conquest of the Crystal Palace|https://archive.org/download/action-52-esp/Conquest%20of%20the%20Crystal%20Palace.zip
 Contra (J-ESP-Wave)|https://archive.org/download/action-52-esp/Contra%20%28J-ESP-Wave%29.zip
 Contra Force (ESP)|https://archive.org/download/action-52-esp/Contra%20Force%20%28ESP%29.zip
 Cool World (ESP)|https://archive.org/download/action-52-esp/Cool%20World%20%28ESP%29.zip
@@ -223,8 +223,8 @@ Double Dribble (ESP) (Rev A)|https://archive.org/download/action-52-esp/Double%2
 Double Strike (ESP) (AVE) (V1.1) [!]|https://archive.org/download/action-52-esp/Double%20Strike%20%28ESP%29%20%28AVE%29%20%28V1.1%29%20%5B%21%5D.zip
 Dough Boy (ESP)|https://archive.org/download/action-52-esp/Dough%20Boy%20%28ESP%29.zip
 Dr. Chaos (ESP)|https://archive.org/download/action-52-esp/Dr.%20Chaos%20%28ESP%29.zip
-Dr. Jekyll and Mr. Hyde|https://archive.org/download/action-52-esp/Dr.%20Jekyll%20and%20Mr.%20Hyde.zip
 Dr. Jekyll and Mr. Hyde (ESP)|https://archive.org/download/action-52-esp/Dr.%20Jekyll%20and%20Mr.%20Hyde%20%28ESP%29.zip
+Dr. Jekyll and Mr. Hyde|https://archive.org/download/action-52-esp/Dr.%20Jekyll%20and%20Mr.%20Hyde.zip
 Dr. Mario (ESP) (PRG1)|https://archive.org/download/action-52-esp/Dr.%20Mario%20%28ESP%29%20%28PRG1%29.zip
 Dragon Ball - Shen Long no Nazo (ESP)|https://archive.org/download/action-52-esp/Dragon%20Ball%20-%20Shen%20Long%20no%20Nazo%20%28ESP%29.zip
 Dragon Ball Z - Super Butouden 2 (Unl-ESP)|https://archive.org/download/action-52-esp/Dragon%20Ball%20Z%20-%20Super%20Butouden%202%20%28Unl-ESP%29.zip
@@ -280,9 +280,9 @@ Final Fight 3 (Unl-ESP)|https://archive.org/download/action-52-esp/Final%20Fight
 Fire 'n Ice (ESP)|https://archive.org/download/action-52-esp/Fire%20%27n%20Ice%20%28ESP%29.zip
 Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi (ESP)|https://archive.org/download/action-52-esp/Fire%20Emblem%20-%20Ankoku%20Ryuu%20to%20Hikari%20no%20Tsurugi%20%28ESP%29.zip
 Fire Hawk (ESP) (Unl)|https://archive.org/download/action-52-esp/Fire%20Hawk%20%28ESP%29%20%28Unl%29.zip
-Fist of the North Star|https://archive.org/download/action-52-esp/Fist%20of%20the%20North%20Star.zip
 Fist of the North Star (ESP-Crimental)|https://archive.org/download/action-52-esp/Fist%20of%20the%20North%20Star%20%28ESP-Crimental%29.zip
 Fist of the North Star (ESP-Wave)|https://archive.org/download/action-52-esp/Fist%20of%20the%20North%20Star%20%28ESP-Wave%29.zip
+Fist of the North Star|https://archive.org/download/action-52-esp/Fist%20of%20the%20North%20Star.zip
 Flappy (ESP)|https://archive.org/download/action-52-esp/Flappy%20%28ESP%29.zip
 Flight of the Intruder (ESP)|https://archive.org/download/action-52-esp/Flight%20of%20the%20Intruder%20%28ESP%29.zip
 Flipull - An Exciting Cube Game (ESP)|https://archive.org/download/action-52-esp/Flipull%20-%20An%20Exciting%20Cube%20Game%20%28ESP%29.zip
@@ -314,8 +314,8 @@ Gekitotsu Yonku Battle (ESP)|https://archive.org/download/action-52-esp/Gekitots
 Getsu Fuuma Den (ESP)|https://archive.org/download/action-52-esp/Getsu%20Fuuma%20Den%20%28ESP%29.zip
 Ghostbusters (ESP)|https://archive.org/download/action-52-esp/Ghostbusters%20%28ESP%29.zip
 Ghostbusters II (ESP)|https://archive.org/download/action-52-esp/Ghostbusters%20II%20%28ESP%29.zip
-Ghosts 'N Goblins|https://archive.org/download/action-52-esp/Ghosts%20%27N%20Goblins.zip
 Ghosts 'N Goblins (ESP-USA)|https://archive.org/download/action-52-esp/Ghosts%20%27N%20Goblins%20%28ESP-USA%29.zip
+Ghosts 'N Goblins|https://archive.org/download/action-52-esp/Ghosts%20%27N%20Goblins.zip
 Ghoul School (ESP)|https://archive.org/download/action-52-esp/Ghoul%20School%20%28ESP%29.zip
 Goal! (ESP-USA)|https://archive.org/download/action-52-esp/Goal%21%20%28ESP-USA%29.zip
 Godzilla - Monster of Monsters! (ESP)|https://archive.org/download/action-52-esp/Godzilla%20-%20Monster%20of%20Monsters%21%20%28ESP%29.zip
@@ -476,11 +476,10 @@ Mario Bros. (ESP)|https://archive.org/download/action-52-esp/Mario%20Bros.%20%28
 Master Chu and the Drunkard Hu (ESP) (Unl)|https://archive.org/download/action-52-esp/Master%20Chu%20and%20the%20Drunkard%20Hu%20%28ESP%29%20%28Unl%29.zip
 Master Shooter (ESP) (Asia) (Unl)|https://archive.org/download/action-52-esp/Master%20Shooter%20%28ESP%29%20%28Asia%29%20%28Unl%29.zip
 Mechanized Attack (ESP)|https://archive.org/download/action-52-esp/Mechanized%20Attack%20%28ESP%29.zip
-Mega Man|https://archive.org/download/action-52-esp/Mega%20Man.zip
 Mega Man (ESP-Blade133bo)|https://archive.org/download/action-52-esp/Mega%20Man%20%28ESP-Blade133bo%29.zip
 Mega Man (ESP-Wave)|https://archive.org/download/action-52-esp/Mega%20Man%20%28ESP-Wave%29.zip
-Mega Man 2|https://archive.org/download/action-52-esp/Mega%20Man%202.zip
 Mega Man 2 (ESP-Blade133bo)|https://archive.org/download/action-52-esp/Mega%20Man%202%20%28ESP-Blade133bo%29.zip
+Mega Man 2|https://archive.org/download/action-52-esp/Mega%20Man%202.zip
 Mega Man 3 (ESP-Blade133bo)|https://archive.org/download/action-52-esp/Mega%20Man%203%20%28ESP-Blade133bo%29.zip
 Mega Man 3 (ESP-JONNYVILLA2088)|https://archive.org/download/action-52-esp/Mega%20Man%203%20%28ESP-JONNYVILLA2088%29.zip
 Mega Man 4 (ESP-Blade133bo)|https://archive.org/download/action-52-esp/Mega%20Man%204%20%28ESP-Blade133bo%29.zip
@@ -488,12 +487,13 @@ Mega Man 4 (ESP-Wave) (Rev A)|https://archive.org/download/action-52-esp/Mega%20
 Mega Man 5 (ESP-Blade133bo)|https://archive.org/download/action-52-esp/Mega%20Man%205%20%28ESP-Blade133bo%29.zip
 Mega Man 5 (ESP-StalkerMaestro)|https://archive.org/download/action-52-esp/Mega%20Man%205%20%28ESP-StalkerMaestro%29.zip
 Mega Man 6 (ESP-Blade133bo)|https://archive.org/download/action-52-esp/Mega%20Man%206%20%28ESP-Blade133bo%29.zip
+Mega Man|https://archive.org/download/action-52-esp/Mega%20Man.zip
 Megaman II (ESP-Wave)|https://archive.org/download/action-52-esp/Megaman%20II%20%28ESP-Wave%29.zip
 Megaman III (ESP-Wave)|https://archive.org/download/action-52-esp/Megaman%20III%20%28ESP-Wave%29.zip
 Megaman III (ESP-Wave-Megaman III Improvement Hack)|https://archive.org/download/action-52-esp/Megaman%20III%20%28ESP-Wave-Megaman%20III%20Improvement%20Hack%29.zip
 Megaman V (ESP-Wave)|https://archive.org/download/action-52-esp/Megaman%20V%20%28ESP-Wave%29.zip
-Megaman VI|https://archive.org/download/action-52-esp/Megaman%20VI.zip
 Megaman VI (ESP-Wave)|https://archive.org/download/action-52-esp/Megaman%20VI%20%28ESP-Wave%29.zip
+Megaman VI|https://archive.org/download/action-52-esp/Megaman%20VI.zip
 Meikyuu Jiin Dababa (ESP)|https://archive.org/download/action-52-esp/Meikyuu%20Jiin%20Dababa%20%28ESP%29.zip
 Menace Beach (ESP) (Unl)|https://archive.org/download/action-52-esp/Menace%20Beach%20%28ESP%29%20%28Unl%29.zip
 Mendel Palace (ESP)|https://archive.org/download/action-52-esp/Mendel%20Palace%20%28ESP%29.zip
@@ -503,8 +503,8 @@ Metal Gear (ESP-Wave)|https://archive.org/download/action-52-esp/Metal%20Gear%20
 Metal Slader Glory (ESP)|https://archive.org/download/action-52-esp/Metal%20Slader%20Glory%20%28ESP%29.zip
 Metal Storm (ESP)|https://archive.org/download/action-52-esp/Metal%20Storm%20%28ESP%29.zip
 Metro-Cross (ESP)|https://archive.org/download/action-52-esp/Metro-Cross%20%28ESP%29.zip
-Metroid (ESP)|https://archive.org/download/action-52-esp/Metroid%20%28ESP%29.zip
 Metroid (ESP) (v1.2)|https://archive.org/download/action-52-esp/Metroid%20%28ESP%29%20%28v1.2%29.zip
+Metroid (ESP)|https://archive.org/download/action-52-esp/Metroid%20%28ESP%29.zip
 MiG 29 - Soviet Fighter (ESP) (Unl)|https://archive.org/download/action-52-esp/MiG%2029%20-%20Soviet%20Fighter%20%28ESP%29%20%28Unl%29.zip
 Mickey Mousecapade (ESP)|https://archive.org/download/action-52-esp/Mickey%20Mousecapade%20%28ESP%29.zip
 Micro Machines (Camerica) (ESP)|https://archive.org/download/action-52-esp/Micro%20Machines%20%28Camerica%29%20%28ESP%29.zip
@@ -523,8 +523,8 @@ Moai-kun (ESP)|https://archive.org/download/action-52-esp/Moai-kun%20%28ESP%29.z
 Mobile Suit Z Gundam - Hot Scramble (ESP)|https://archive.org/download/action-52-esp/Mobile%20Suit%20Z%20Gundam%20-%20Hot%20Scramble%20%28ESP%29.zip
 Moero!! Juudou Warriors (ESP)|https://archive.org/download/action-52-esp/Moero%21%21%20Juudou%20Warriors%20%28ESP%29.zip
 Monopoly (ESP)|https://archive.org/download/action-52-esp/Monopoly%20%28ESP%29.zip
-Monster Party|https://archive.org/download/action-52-esp/Monster%20Party.zip
 Monster Party (ESP)|https://archive.org/download/action-52-esp/Monster%20Party%20%28ESP%29.zip
+Monster Party|https://archive.org/download/action-52-esp/Monster%20Party.zip
 Monster Truck Rally (ESP)|https://archive.org/download/action-52-esp/Monster%20Truck%20Rally%20%28ESP%29.zip
 Monster in My Pocket (ESP-2.0)|https://archive.org/download/action-52-esp/Monster%20in%20My%20Pocket%20%28ESP-2.0%29.zip
 Monty on the Run - Monty no Doki Doki Dai Dassou (ESP)|https://archive.org/download/action-52-esp/Monty%20on%20the%20Run%20-%20Monty%20no%20Doki%20Doki%20Dai%20Dassou%20%28ESP%29.zip
@@ -579,8 +579,8 @@ Pac-Land (ESP)|https://archive.org/download/action-52-esp/Pac-Land%20%28ESP%29.z
 Pac-Man (ESP)|https://archive.org/download/action-52-esp/Pac-Man%20%28ESP%29.zip
 Pac-Mania (ESP) (Unl)|https://archive.org/download/action-52-esp/Pac-Mania%20%28ESP%29%20%28Unl%29.zip
 Palamedes (ESP)|https://archive.org/download/action-52-esp/Palamedes%20%28ESP%29.zip
-Panic Restaurant|https://archive.org/download/action-52-esp/Panic%20Restaurant.zip
 Panic Restaurant (ESP)|https://archive.org/download/action-52-esp/Panic%20Restaurant%20%28ESP%29.zip
+Panic Restaurant|https://archive.org/download/action-52-esp/Panic%20Restaurant.zip
 Paperboy (ESP)|https://archive.org/download/action-52-esp/Paperboy%20%28ESP%29.zip
 Paperboy 2 (ESP)|https://archive.org/download/action-52-esp/Paperboy%202%20%28ESP%29.zip
 Parasol Stars - The Story of Bubble Bobble 3 (ESP)|https://archive.org/download/action-52-esp/Parasol%20Stars%20-%20The%20Story%20of%20Bubble%20Bobble%203%20%28ESP%29.zip
@@ -671,8 +671,8 @@ Secret Ties (ESP) (Prototype)|https://archive.org/download/action-52-esp/Secret%
 Section Z (ESP)|https://archive.org/download/action-52-esp/Section%20Z%20%28ESP%29.zip
 Seicross (ESP)|https://archive.org/download/action-52-esp/Seicross%20%28ESP%29.zip
 Seiken Psychocalibur - Majuu no Mori Densetsu (ESP)|https://archive.org/download/action-52-esp/Seiken%20Psychocalibur%20-%20Majuu%20no%20Mori%20Densetsu%20%28ESP%29.zip
-Shadow of the Ninja|https://archive.org/download/action-52-esp/Shadow%20of%20the%20Ninja.zip
 Shadow of the Ninja (ESP-USA-Wave)|https://archive.org/download/action-52-esp/Shadow%20of%20the%20Ninja%20%28ESP-USA-Wave%29.zip
+Shadow of the Ninja|https://archive.org/download/action-52-esp/Shadow%20of%20the%20Ninja.zip
 Shatterhand (Tokkyuu Shirei - Solbrain) (ESP-USA- Wave)|https://archive.org/download/action-52-esp/Shatterhand%20%28Tokkyuu%20Shirei%20-%20Solbrain%29%20%28ESP-USA-%20Wave%29.zip
 Shinobi (ESP-Tengen)|https://archive.org/download/action-52-esp/Shinobi%20%28ESP-Tengen%29.zip
 Shooting Range (ESP)|https://archive.org/download/action-52-esp/Shooting%20Range%20%28ESP%29.zip
@@ -714,8 +714,8 @@ Stanley - The Search for Dr. Livingston (ESP)|https://archive.org/download/actio
 Star Force (ESP)|https://archive.org/download/action-52-esp/Star%20Force%20%28ESP%29.zip
 Star Soldier (ESP)|https://archive.org/download/action-52-esp/Star%20Soldier%20%28ESP%29.zip
 Star Voyager (ESP)|https://archive.org/download/action-52-esp/Star%20Voyager%20%28ESP%29.zip
-Star Wars (ESP)|https://archive.org/download/action-52-esp/Star%20Wars%20%28ESP%29.zip
 Star Wars (ESP) (Namco)|https://archive.org/download/action-52-esp/Star%20Wars%20%28ESP%29%20%28Namco%29.zip
+Star Wars (ESP)|https://archive.org/download/action-52-esp/Star%20Wars%20%28ESP%29.zip
 Starship Hector (ESP)|https://archive.org/download/action-52-esp/Starship%20Hector%20%28ESP%29.zip
 Startropics (ESP)|https://archive.org/download/action-52-esp/Startropics%20%28ESP%29.zip
 Startropics II Zoda's Revenge (ESP)|https://archive.org/download/action-52-esp/Startropics%20II%20Zoda%27s%20Revenge%20%28ESP%29.zip
@@ -728,8 +728,8 @@ Strider (ESP)|https://archive.org/download/action-52-esp/Strider%20%28ESP%29.zip
 Strike Wolf (ESP)|https://archive.org/download/action-52-esp/Strike%20Wolf%20%28ESP%29.zip
 Sunman (ESP-Europe) (Proto)|https://archive.org/download/action-52-esp/Sunman%20%28ESP-Europe%29%20%28Proto%29.zip
 Super Arabian (ESP)|https://archive.org/download/action-52-esp/Super%20Arabian%20%28ESP%29.zip
-Super C|https://archive.org/download/action-52-esp/Super%20C.zip
 Super C (ESP-USA)|https://archive.org/download/action-52-esp/Super%20C%20%28ESP-USA%29.zip
+Super C|https://archive.org/download/action-52-esp/Super%20C.zip
 Super Dodge Ball (ESP)|https://archive.org/download/action-52-esp/Super%20Dodge%20Ball%20%28ESP%29.zip
 Super Dyna'mix Badminton (ESP)|https://archive.org/download/action-52-esp/Super%20Dyna%27mix%20Badminton%20%28ESP%29.zip
 Super Mario Bros. (ESP-Her-Saki)|https://archive.org/download/action-52-esp/Super%20Mario%20Bros.%20%28ESP-Her-Saki%29.zip
@@ -743,10 +743,10 @@ Super Pang  (ESP) (Asia) (Ja) (PAL) (Unl)|https://archive.org/download/action-52
 Super Pang II (ESP) (Asia) (Unl)|https://archive.org/download/action-52-esp/Super%20Pang%20II%20%28ESP%29%20%28Asia%29%20%28Unl%29.zip
 Super Pitfall (ESP)|https://archive.org/download/action-52-esp/Super%20Pitfall%20%28ESP%29.zip
 Super Robin Hood (ESP) (Unl)|https://archive.org/download/action-52-esp/Super%20Robin%20Hood%20%28ESP%29%20%28Unl%29.zip
-Super Spike V'Ball|https://archive.org/download/action-52-esp/Super%20Spike%20V%27Ball.zip
 Super Spike V'Ball (ESP-USA)|https://archive.org/download/action-52-esp/Super%20Spike%20V%27Ball%20%28ESP-USA%29.zip
-Super Spy Hunter|https://archive.org/download/action-52-esp/Super%20Spy%20Hunter.zip
+Super Spike V'Ball|https://archive.org/download/action-52-esp/Super%20Spike%20V%27Ball.zip
 Super Spy Hunter (ESP)|https://archive.org/download/action-52-esp/Super%20Spy%20Hunter%20%28ESP%29.zip
+Super Spy Hunter|https://archive.org/download/action-52-esp/Super%20Spy%20Hunter.zip
 Super Turrican (ESP-Europe)|https://archive.org/download/action-52-esp/Super%20Turrican%20%28ESP-Europe%29.zip
 Swamp Thing (ESP)|https://archive.org/download/action-52-esp/Swamp%20Thing%20%28ESP%29.zip
 Sweet Home (ESP-Mingus)|https://archive.org/download/action-52-esp/Sweet%20Home%20%28ESP-Mingus%29.zip
@@ -772,9 +772,9 @@ Tennis (ESP)|https://archive.org/download/action-52-esp/Tennis%20%28ESP%29.zip
 Terminator 2 - Judgment Day (ESP)|https://archive.org/download/action-52-esp/Terminator%202%20-%20Judgment%20Day%20%28ESP%29.zip
 Terra Cresta (ESP)|https://archive.org/download/action-52-esp/Terra%20Cresta%20%28ESP%29.zip
 Tetrastar - The Fighter (ESP)|https://archive.org/download/action-52-esp/Tetrastar%20-%20The%20Fighter%20%28ESP%29.zip
-Tetris (ESP)|https://archive.org/download/action-52-esp/Tetris%20%28ESP%29.zip
 Tetris (ESP) (Bulletproof) (Japan) (Rev B)|https://archive.org/download/action-52-esp/Tetris%20%28ESP%29%20%28Bulletproof%29%20%28Japan%29%20%28Rev%20B%29.zip
 Tetris (ESP) (Unl)|https://archive.org/download/action-52-esp/Tetris%20%28ESP%29%20%28Unl%29.zip
+Tetris (ESP)|https://archive.org/download/action-52-esp/Tetris%20%28ESP%29.zip
 Tetris (ESP-Music Hack) (Unl)|https://archive.org/download/action-52-esp/Tetris%20%28ESP-Music%20Hack%29%20%28Unl%29.zip
 Tetsudou Ou - Famicom Boardgame (ESP)|https://archive.org/download/action-52-esp/Tetsudou%20Ou%20-%20Famicom%20Boardgame%20%28ESP%29.zip
 The Addams Family (ESP-Heros)|https://archive.org/download/action-52-esp/The%20Addams%20Family%20%28ESP-Heros%29.zip
@@ -801,8 +801,8 @@ The Incredible Crash Dummies (ESP)|https://archive.org/download/action-52-esp/Th
 The Jetsons - Cogswell's Caper! (ESP)|https://archive.org/download/action-52-esp/The%20Jetsons%20-%20Cogswell%27s%20Caper%21%20%28ESP%29.zip
 The Jungle Book (ESP)|https://archive.org/download/action-52-esp/The%20Jungle%20Book%20%28ESP%29.zip
 The Karate Kid (ESP)|https://archive.org/download/action-52-esp/The%20Karate%20Kid%20%28ESP%29.zip
-The Krion Conquest|https://archive.org/download/action-52-esp/The%20Krion%20Conquest.zip
 The Krion Conquest (ESP)|https://archive.org/download/action-52-esp/The%20Krion%20Conquest%20%28ESP%29.zip
+The Krion Conquest|https://archive.org/download/action-52-esp/The%20Krion%20Conquest.zip
 The Last Ninja (ESP)|https://archive.org/download/action-52-esp/The%20Last%20Ninja%20%28ESP%29.zip
 The Last Starfighter (ESP)|https://archive.org/download/action-52-esp/The%20Last%20Starfighter%20%28ESP%29.zip
 The Legend of Kage (ESP)|https://archive.org/download/action-52-esp/The%20Legend%20of%20Kage%20%28ESP%29.zip
@@ -846,8 +846,8 @@ Tiny Toon Adventures 6 (Unl) (ESP)|https://archive.org/download/action-52-esp/Ti
 Titan Warriors (ESP) (Proto)|https://archive.org/download/action-52-esp/Titan%20Warriors%20%28ESP%29%20%28Proto%29.zip
 Titanic (ESP)|https://archive.org/download/action-52-esp/Titanic%20%28ESP%29.zip
 To the Earth (ESP)|https://archive.org/download/action-52-esp/To%20the%20Earth%20%28ESP%29.zip
-Toki|https://archive.org/download/action-52-esp/Toki.zip
 Toki (ESP)|https://archive.org/download/action-52-esp/Toki%20%28ESP%29.zip
+Toki|https://archive.org/download/action-52-esp/Toki.zip
 Tom & Jerry (ESP)|https://archive.org/download/action-52-esp/Tom%20%26%20Jerry%20%28ESP%29.zip
 Tombs & Treasure (ESP)|https://archive.org/download/action-52-esp/Tombs%20%26%20Treasure%20%28ESP%29.zip
 Toobin' (ESP) (Unl)|https://archive.org/download/action-52-esp/Toobin%27%20%28ESP%29%20%28Unl%29.zip
@@ -866,8 +866,8 @@ Twin Cobra (ESP)|https://archive.org/download/action-52-esp/Twin%20Cobra%20%28ES
 Twin Eagle - Revenge Joe's Brother (ESP)|https://archive.org/download/action-52-esp/Twin%20Eagle%20-%20Revenge%20Joe%27s%20Brother%20%28ESP%29.zip
 TwinBee (ESP)|https://archive.org/download/action-52-esp/TwinBee%20%28ESP%29.zip
 TwinBee 3 - Poko Poko Dai Maou (ESP)|https://archive.org/download/action-52-esp/TwinBee%203%20-%20Poko%20Poko%20Dai%20Maou%20%28ESP%29.zip
-U-four-ia|https://archive.org/download/action-52-esp/U-four-ia.zip
 U-four-ia - The Saga (ESP-Wave-Euro)|https://archive.org/download/action-52-esp/U-four-ia%20-%20The%20Saga%20%28ESP-Wave-Euro%29.zip
+U-four-ia|https://archive.org/download/action-52-esp/U-four-ia.zip
 Uchuu Keibitai SDF (ESP)|https://archive.org/download/action-52-esp/Uchuu%20Keibitai%20SDF%20%28ESP%29.zip
 Ultraman Club - Kaijuu Daikessen!! (ESP)|https://archive.org/download/action-52-esp/Ultraman%20Club%20-%20Kaijuu%20Daikessen%21%21%20%28ESP%29.zip
 Urban Champion (ESP-Wave)|https://archive.org/download/action-52-esp/Urban%20Champion%20%28ESP-Wave%29.zip
@@ -907,8 +907,8 @@ Xenophobe (ESP)|https://archive.org/download/action-52-esp/Xenophobe%20%28ESP%29
 Xevious (ESP)|https://archive.org/download/action-52-esp/Xevious%20%28ESP%29.zip
 Xexyz (ESP)|https://archive.org/download/action-52-esp/Xexyz%20%28ESP%29.zip
 Yie Ar Kung-Fu (ESP)|https://archive.org/download/action-52-esp/Yie%20Ar%20Kung-Fu%20%28ESP%29.zip
-Yo! Noid|https://archive.org/download/action-52-esp/Yo%21%20Noid.zip
 Yo! Noid (ESP)|https://archive.org/download/action-52-esp/Yo%21%20Noid%20%28ESP%29.zip
+Yo! Noid|https://archive.org/download/action-52-esp/Yo%21%20Noid.zip
 Youkai Club (ESP)|https://archive.org/download/action-52-esp/Youkai%20Club%20%28ESP%29.zip
 Youkai Douchuuki (ESP)|https://archive.org/download/action-52-esp/Youkai%20Douchuuki%20%28ESP%29.zip
 Ys (ESP)|https://archive.org/download/action-52-esp/Ys%20%28ESP%29.zip
